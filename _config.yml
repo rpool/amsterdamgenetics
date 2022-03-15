@@ -30,7 +30,7 @@ markdown: kwamdown
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
