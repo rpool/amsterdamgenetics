@@ -9,7 +9,7 @@ homepage: false
 
 # René Pool
 
-<img src="/images/renepool.jpg" alt="René Pool" title="René Pool" height="100"/>
+<img src="{{site.baseurl}}/images/renepool.jpg" alt="René Pool" title="René Pool" height="100"/>
 
 ## Research interests
 
