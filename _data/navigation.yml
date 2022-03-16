@@ -10,8 +10,8 @@
   link: /blog/
   side: right
 
-- name: Colloquium
-  link: /colloquium/
+- name: Meetings
+  link: /meetings/
   side: right
 
 - name: For researchers
@@ -22,9 +22,9 @@
   link: /general_info/
   side: right
 
-- name: About
-  link: /about/
-  side: right
+# - name: About
+#   link: /about/
+#   side: right
 
 - name: Contact
   link: /contact/

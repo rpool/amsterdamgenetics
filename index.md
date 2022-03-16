@@ -7,4 +7,15 @@ title: Home
 homepage: true
 ---
 
-hallo hallo
+# Welcome to the amsterdam genetics network
+
+The Amsterdam Genetics network aims at ...
+
+![This is a close-up of DNA](/images/dna-close-up.jpg "DNA")
+
+The Amsterdam Genetics Network is iniated by scientists of the Amsterdam institutes [UvA](https://www.uva.nl/), [VU](https://vu.nl/) and [Amsterdam UMC](https://www.amsterdamumc.org/).
+
+||||
+| <img src="/images/uva.png" alt="UvA" title="UvA" height="75"/> | <img src="/images/vu.jpg" title="VU" alt="VU" height="75"/> | <img src="/images/aumc.jpg" title="Amsterdam UMC" alt="Amsterdam UMC" height="75"/> |
+
+
