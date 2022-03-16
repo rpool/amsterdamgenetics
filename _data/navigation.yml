@@ -3,29 +3,29 @@
   side: left
 
 - name: People
-  link: /people/
+  link: /people
   side: right
 
 - name: Blog
-  link: /blog/
+  link: /blog
   side: right
 
 - name: Meetings
-  link: /meetings/
+  link: /meetings
   side: right
 
 - name: For researchers
-  link: /scientific/
+  link: /scientific
   side: right
 
 - name: General information
-  link: /general_info/
+  link: /general_info
   side: right
 
 # - name: About
-#   link: /about/
+#   link: /about
 #   side: right
 
 - name: Contact
-  link: /contact/
+  link: /contact
   side: right
