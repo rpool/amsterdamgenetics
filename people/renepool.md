@@ -7,6 +7,8 @@ title: René Pool
 homepage: false
 ---
 
+<br />
+
 # René Pool
 
 <img src="{{site.baseurl}}/images/renepool.jpg" alt="René Pool" title="René Pool" height="150"/>
