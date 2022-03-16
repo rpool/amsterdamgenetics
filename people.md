@@ -7,13 +7,15 @@ title: People
 homepage: false
 ---
 
+<br />
+
 # Meet the people of the Amsterdam Genetics Network
 
 Click on the name of a person in the table below to go to the personal page.
 
 **Name**                      | **Affiliation** | **Email**      |
 -----------------------------:|----------------:|---------------:|
-[René Pool](/people/renepool) | VU              | <r.pool@vu.nl> |
+[René Pool]({{site.baseurl}}/people/renepool) | VU              | <r.pool@vu.nl> |
 -----------------------------:|----------------:|---------------:|
 
 

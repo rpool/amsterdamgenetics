@@ -3,14 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default_agn
-title: General information
+title: Blog
 homepage: false
 ---
 
 <br />
 
-# General information
+# Blog
 
-Below you can find general information for researchers.
-
-[https://www.genome.gov/](https://www.genome.gov/)
+Blog entries and news below....
